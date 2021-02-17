@@ -14,5 +14,4 @@
 ## APTITUDE
 
 
-* [:blue_book:](https://drive.google.com/file/d/1wqMgL_6w8nWgFCHYXQ0NA8Kjz8LLcmKu/view?usp=sharing) [ NUMBER SYSTEM ](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/Recursion/)
-* [:blue_book:](https://drive.google.com/file/d/1wqMgL_6w8nWgFCHYXQ0NA8Kjz8LLcmKu/view?usp=sharing) [ PERCENTAGES ](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/Recursion/)
+* [:blue_book:](https://drive.google.com/drive/folders/1U0HR2AHSq-PEZtGIbTdD_j7L97I6QlS-) [ NUMBER SYSTEM ](https://www.geeksforgeeks.org/numbers/)
