@@ -15,3 +15,4 @@
 
 
 * [:blue_book:](https://drive.google.com/drive/folders/1U0HR2AHSq-PEZtGIbTdD_j7L97I6QlS-) [ NUMBER SYSTEM ](https://www.geeksforgeeks.org/numbers/)
+* [:blue_book:](https://drive.google.com/drive/folders/1U0HR2AHSq-PEZtGIbTdD_j7L97I6QlS-) [ PERCENTAGES ](https://www.geeksforgeeks.org/percentages/)
