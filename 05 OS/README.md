@@ -19,5 +19,9 @@ Coordination between other software and users
 * OS manage the input and output. All I/O devices are managed by OS.
 * The bootstrap program is loaded into the main memory when computer reboots. Bootstrap program loads into the ROM. One main program of OS is the kernel. Kernal is running at all times. All the operating system is controlled by the kernel. When we load OS in main memory, the first of all kernel loads into the main memory.
 
-## OPERATING SYSTEM (OS)
-
+##### Types of Operating System
+1. Batch Operating System </br>
+2. Time-Sharing Operating System<br>
+3. Distributed Operating System
+4. Embedded Operating System
+5. Real-time Operating System
