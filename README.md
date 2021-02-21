@@ -21,5 +21,11 @@ If you are getting started in the computer programming world, it is important fo
 2. C
 3. Python
 4. Java
+### Some of the languages used at various organisations as reported online:
 
+:orange_book: Amazon: Java, Javascript, Ruby, Python, Perl [sources](https://www.quora.com/What-programming-languages-are-used-at-Amazon) <br>
+:orange_book: Facebook: PHP, C++, Python, Java, Perl. High regard for dynamic/scripting languages. [sources](https://stackoverflow.com/questions/3690092/what-programming-language-does-facebook-use) <br>
+:orange_book: Google: C/C++, Java, Python, Javascript, Go [sources](https://stackoverflow.com/questions/4773379/official-programming-languages-at-google) <br>
+:orange_book: Microsoft: C++, C#, Java, Python [sources](http://www.eweek.com/c/a/Application-Development/Top-10-Microsoft-Programming-Languages-704642/) <br>
+<br>
 
