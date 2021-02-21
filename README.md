@@ -12,6 +12,14 @@ This repository is a complete guide to placement for technical interviews in tec
 
 
 # 🏆 Programming Language
-There is no doubt that programming plays a great role in our life in terms of computing tasks. After designing a software it is very important to implement it using any language i.e programming language is one of the most prominent part while implementaing any design with coding approach.
+If you are getting started in the computer programming world, it is important for you to choose the right programming language that can help you land a job anytime you want so there is no doubt that programming plays a great role in our life in terms of computing tasks. After designing a software it is very important to implement it using any language i.e programming language is one of the most prominent part while implementaing any design with coding approach.
 * It is ok to learn number of progamming language and implement it but, while coming to coding interviews we need to be very good at any one programming language.
 * We can say that for technical interviews there is a prominent Importance of any one Programming language.
+
+* ***Select a programming language you are confident while coding*** I will suggest you choosing one of these programming language for placement purpose (in order).
+1. C++
+2. C
+3. Python
+4. Java
+
+
