@@ -29,3 +29,5 @@ If you are getting started in the computer programming world, it is important fo
 :orange_book: Microsoft: C++, C#, Java, Python [sources](http://www.eweek.com/c/a/Application-Development/Top-10-Microsoft-Programming-Languages-704642/) <br>
 <br>
 
+# 🏆 Aptitude
+
