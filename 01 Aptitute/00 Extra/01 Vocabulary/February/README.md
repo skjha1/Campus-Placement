@@ -5,8 +5,8 @@
 
 | WORD | Meaning |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| contemplate | विचार करना(Consider) |
-| minute | बेहद छोटा(immeasurably small) |
-| intend | इरादा करना(have in mind as a purpose) |
-| utter | पूर्ण(complete; absolute) |
+| Contemplate | विचार करना(Consider) |
+| Minute | बेहद छोटा(immeasurably small) |
+| Intend | इरादा करना(have in mind as a purpose) |
+| Utter | पूर्ण(complete; absolute) |
 | Abject | अधम(poor,Miserable) |
