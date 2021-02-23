@@ -44,4 +44,18 @@ If you are getting started in the computer programming world, it is important fo
 * Soft skills are important because in an interview or in you professional life you will be encountering many such situations where your soft skills are going to decide the outcome of a situation.
 
  🔯 There are certain topics to be concerned for placement purpose, i.e  ***Quantitative Aptitude***, ***Verbal Ability***, ***Analytical and Logical Reasoning***, ***Data Interpretation and Data Sufficiency***.
- 🔯 
+ 🔯 Under "Quantitative Aptitude" we have topics like 
+ 1) Number Systems
+2) Percentage, Profit & Loss
+3) Average, Mixtures and Allegations
+4) Time and Work
+5) Time and Distance
+6) Equations‐Simple, Special and quadratic
+7) Ratio, Proportion and Variations.
+8) Inequalities
+9) Geometry
+10) Co‐ordinate geometry
+11) Permutations and Combinations
+12) Progressions and sequences
+
+Here all the important formula and defination for Quantitative Aptitude ([SOURCE](https://drive.google.com/drive/folders/1w3SEmf4GcgV-7cLn71TV2KG81VQkDQqW))
