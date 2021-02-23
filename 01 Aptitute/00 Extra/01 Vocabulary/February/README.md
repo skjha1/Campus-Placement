@@ -1,4 +1,4 @@
-#### In this section there will be 5 Vocabulary updated on daily basis, this will enhance your communication personality.
+#### In this section there will be 5 Vocabulary updated on daily basis, this will enhance your communication personality owned by Ajay and shivendra.
 
 
 ***23/02/2021***
