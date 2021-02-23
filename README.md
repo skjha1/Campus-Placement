@@ -31,3 +31,14 @@ If you are getting started in the computer programming world, it is important fo
 
 # 🏆 Aptitude
 
+***Why Aptitude is Important?***[Source](https://www.quora.com/What-is-the-importance-of-the-aptitude-test-and-soft-skills-during-campus-recruitment-for-engineering-students#:~:text=If%20you%20are%20able%20to,any%20purpose%20during%20the%20placements.)
+
+* It can get you eliminated, no matter how good you are at programming that is the only big and sufficient reason why you should be focusing on aptitude preparation during placements.
+* It does not matter whether you solved all the programming questions in the first round or not if you made a mistake of not solving any aptitude and reasoning question, the chances of you being eliminated increases exponentially.
+***Soft Skills***
+
+* Soft Skills are not only important during placements or interview but are also going to be an important part of your professional life.
+
+* Soft skills are important because in an interview or in you professional life you will be encountering many such situations where your soft skills are going to decide the outcome of a situation.
+
+\to jhvh
