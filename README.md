@@ -59,4 +59,9 @@ If you are getting started in the computer programming world, it is important fo
 11) Permutations and Combinations
 12) Progressions and sequences
 
-Here all the important formula and defination for Quantitative Aptitude ([SOURCE](https://drive.google.com/drive/folders/1w3SEmf4GcgV-7cLn71TV2KG81VQkDQqW))
+✺ Here all the important formula and defination for "Quantitative Aptitude" ([SOURCE](https://drive.google.com/drive/folders/1w3SEmf4GcgV-7cLn71TV2KG81VQkDQqW))
+
+✺ These are some sets of "Quantitative Aptitude" problem with solution which is enough for cracking apti round, mostly you will be getting the same questions with some information changed.
+
+💫 [SET 1](https://drive.google.com/drive/folders/1SQfxfSUzB3fqcRnZ3Hmbp1IzGUT5N6GP)
+💫 [SET 1](https://drive.google.com/drive/folders/1SQfxfSUzB3fqcRnZ3Hmbp1IzGUT5N6GP)
