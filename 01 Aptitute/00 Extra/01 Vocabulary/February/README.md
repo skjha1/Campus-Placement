@@ -1,7 +1,9 @@
-#### In this section there will be 5 Vocabulary updated on daily basis, this will enhance your communication personality. 
+#### In this section there will be 5 Vocabulary updated on daily basis, this will enhance your communication personality.
+
+
 ***23/02/2021 ***
 
-| Notebook | Description |
+| WORD | Meaning |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [tsf-basics](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-examples/notebooks/1_intro/basic_operations.ipynb) | Learn basic operations in TensorFlow, a library for various kinds of perceptual and language understanding tasks from Google. |
 | [tsf-linear](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-examples/notebooks/2_basic_classifiers/linear_regression.ipynb) | Implement linear regression in TensorFlow. |
