@@ -64,4 +64,12 @@ If you are getting started in the computer programming world, it is important fo
 ✺ These are some sets of "Quantitative Aptitude" problem with solution which is enough for cracking apti round, mostly you will be getting the same questions with some information changed.
 
 💫 [SET 1](https://drive.google.com/drive/folders/1SQfxfSUzB3fqcRnZ3Hmbp1IzGUT5N6GP)
-💫 [SET 1](https://drive.google.com/drive/folders/1SQfxfSUzB3fqcRnZ3Hmbp1IzGUT5N6GP)
+💫 [SET 2](https://drive.google.com/drive/folders/1SQfxfSUzB3fqcRnZ3Hmbp1IzGUT5N6GP)
+💫 [SET 3](https://drive.google.com/drive/folders/1SQfxfSUzB3fqcRnZ3Hmbp1IzGUT5N6GP)
+💫 [SET 4](https://drive.google.com/drive/folders/1SQfxfSUzB3fqcRnZ3Hmbp1IzGUT5N6GP)
+💫 [SET 5](https://drive.google.com/drive/folders/1SQfxfSUzB3fqcRnZ3Hmbp1IzGUT5N6GP)
+💫 [SET 6](https://drive.google.com/drive/folders/1SQfxfSUzB3fqcRnZ3Hmbp1IzGUT5N6GP)
+💫 [SET 7](https://drive.google.com/drive/folders/1SQfxfSUzB3fqcRnZ3Hmbp1IzGUT5N6GP)
+💫 [SET 8](https://drive.google.com/drive/folders/1SQfxfSUzB3fqcRnZ3Hmbp1IzGUT5N6GP)
+
+
