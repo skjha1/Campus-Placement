@@ -72,4 +72,6 @@ If you are getting started in the computer programming world, it is important fo
 💫 [SET 7](https://drive.google.com/drive/folders/1SQfxfSUzB3fqcRnZ3Hmbp1IzGUT5N6GP)
 💫 [SET 8](https://drive.google.com/drive/folders/1SQfxfSUzB3fqcRnZ3Hmbp1IzGUT5N6GP)
 
+🔯 In this I am updating 5 word meaning on daily basis ([source](https://github.com/skjha1/Campus-Placement/tree/main/01%20Aptitute/00%20Extra/01%20Vocabulary/February))
+
 
