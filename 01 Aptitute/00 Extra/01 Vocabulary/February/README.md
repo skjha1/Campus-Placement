@@ -32,3 +32,14 @@
 | Debility | दुर्बलता(Physical weakness, especially as a result of illness) |
 | Denunciation | निंदा( public condemnation of someone or something / informing against someone) |
 
+🔯 ***26/02/2021***
+
+| WORD | Meaning |
+|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Dormant | प्निष्क्रिय(inactive, passive, idle,Having normal physical functions suspended or slowed down for a period of time; in or as if in a deep sleep) |
+| Elucidate | स्पष्ट करना (clarify,To make clear) |
+| Fastidious | दुराराध्य (Careful in all details, meticulous(सूक्ष्म), very difficult to please) |
+| Formidable | दुर्जेय(Overwhelming, alarming, dreadful) |
+| Forsake | त्यागना( To abandon) |
+
+
