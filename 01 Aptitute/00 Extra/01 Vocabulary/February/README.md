@@ -42,4 +42,14 @@
 | Formidable | दुर्जेय(Overwhelming, alarming, dreadful) |
 | Forsake | त्यागना( To abandon) |
 
+🔯 ***27/02/2021***
+
+| WORD | Meaning |
+|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Fraught | भरा हुआ(causing or affected by anxiety or stress, filled with something undesirable) |
+| Gauche | भद्दा (Tactless) |
+| Haughty | घमंडी (Proud) |
+| Formidable | आगे पीछे करता(Remain in one place in the air) |
+| Impasse | गतिरोधा(A situation in which no progress is possible) |
+
 
