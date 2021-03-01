@@ -57,10 +57,10 @@
 
 | WORD | Meaning |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Incorrigible | असंशोधनीय(Not able to be changed or reformed) |
-| Inextricable | विकट (Cannot be taken out, irredeemable) |
-| Knotty | जटिल (Puzzling) |
-| Ligature | संयुक्ताक्षर(Something that is used to bind) |
-| Macabre | भयंकर(Horrible) |
+| Modalities | रूपात्मकता(A Specific mode in which something is expressed or is experienced something exists) |
+| Nullify | मंसूख़ (Make void) |
+| Ostensible | ख़याली (Apparent) |
+| Oust | बाहर निकालना(To eject) |
+| Overt | अपरोक्ष(In the open) |
 
 
