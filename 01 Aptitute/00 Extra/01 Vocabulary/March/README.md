@@ -20,3 +20,13 @@
 | Penance | तपस्या (Punishment inflicted on oneself for expressing repentance for any wrongdoing of one’s own) |
 | Pretense | दिखावाा(An attempt to make something that is not the case appears true) |
 | Query | सवाल( Question) |
+
+🔯 ***03/03/2021***
+
+| WORD | Meaning |
+|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Queue | पंक्ति(Line) |
+| Quiet | शांत (Making no noise) |
+| Quintessential | सर्वोत्कृष्ट ( Representing the most perfect or typical example of a quality or class) |
+| Quip | ताना(Witty remark) |
+| Radical | उग्र ( Extreme) |
