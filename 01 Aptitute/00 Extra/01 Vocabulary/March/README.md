@@ -40,3 +40,14 @@
 | EMBEDDING | अंत:स्थापन ( Embedding is the process of putting social media content on a web page) |
 | IMPRESSIONS | इंप्रेशना(Impressions are the number of times an online ad, article, video, or other piece of content has been “fetched” (or requested) from it’s source.) |
 | INFLUENCER | प्रभावशाली व्यक्ति ( Influencers are individuals with a presence on social media who use their platform to affect group opinions and behavior. Celebrities who use Twitter, YouTubers with legions of subscribers, and activists organizing on Facebook are all examples of social media influencers.) |
+
+
+🔯 ***05/03/2021***
+
+| WORD | Meaning |
+|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Mentions | उल्लेख (Mentions are another metric companies can use to measure their social media footprint.) |
+| Microblogging | माइक्रोब्लॉगिंग (Microblogs are a subset of traditional blogs where instead of longform content, short messages consisting of a few sentences, an image, a video, or a link are posted and shared) |
+| Organic | संघटनात्मक (Organic content describes social media content that ranks highly because individual users have liked, reposted, or viewed it) |
+| Reach | पहुंच(Reach is a measure of your potential social media audience size) |
+| Social graph | सामाजिक ग्राफ( Social graph is a model of Internet users on a social network and how each one is related to all the others. ) |
