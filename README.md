@@ -75,5 +75,4 @@ If you are getting started in the computer programming world, it is important fo
 
 
 
-  <script src="https://gist.github.com/skjha1/ae25d38140893da02f731b8001254b99.js"></script>
 
